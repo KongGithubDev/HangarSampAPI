@@ -1,7 +1,7 @@
 {
   "ServerOn": "True",
   "MessageServerFalse": "",
-  "Version": "1.5",
+  "Version": "1.0",
   "gamesizeOriginal": "-",
   "gamesizeOriginalFix": "-",
   "gamesizeENBLow": "-",
@@ -11,6 +11,6 @@
   "CSC": "-1",
   "CBURLLIST": "modloader,false|modloader.asi,false|moonloader,false|moonloader.asi,false",
   "FFC": "-1",
-  "UpdateWithLink": "http://gta-career.com/launcher-FreeStyle/FreeStyleLauncherUpdate.tmp",
-  "LUpdateWithLink": "http://gta-career.com/launcher-FreeStyle/FreeStyleUpdateFileReplace.tmp"
+  "UpdateWithLink": "http://141.11.159.38/launcher/LauncherUpdate.tmp",
+  "LUpdateWithLink": "http://141.11.159.38/launcher/UpdateFileReplace.tmp"
 }
